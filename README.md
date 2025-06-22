@@ -22,6 +22,6 @@ I enjoy exploring topics like:
 📫 Feel free to connect or reach out!
 - 📧 Email: fmleonardo107@gmail.com
 - 🌐 LinkedIn: [Linkedin](https://www.linkedin.com/in/leonardo-fajar-mardika/)
-- 🛠️ Portfolio: [My Portofolio]((https://leonardofm73.github.io/))
+- 🛠️ Portfolio: [My Portofolio](https://leonardofm73.github.io/)
 
 Thanks for stopping by! 🙌
