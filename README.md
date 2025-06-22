@@ -9,8 +9,7 @@ Welcome to my GitHub! I'm **Leonardo Fajar**, a passionate Data Scientist and Ma
 - Prometheus & Grafana for monitoring ML systems
 
 📊 Current focus:  
-I'm currently participating in the **Laskar AI training program**, where I'm developing a student dropout prediction system using educational data — covering everything from data preprocessing to deployment and monitoring.  
-The project is targeted to be completed by **July 2025**.
+I'm currently participating in the **Laskar AI training program**, which is scheduled to be completed by **July 2025**.
 
 
 🧠 Always learning:
