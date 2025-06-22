@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello there!
 
-<!--
-**LeonardoFM73/LeonardoFM73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm **Leonardo Fajar**, a passionate Data Scientist and Machine Learning Engineer who loves building intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+🚀 I work with:
+- Python, Jupyter, and Streamlit for rapid ML prototyping
+- Scikit-learn, MLflow, and XGBoost for model building and tracking
+- GitHub Actions and Docker for automation and deployment
+- Prometheus & Grafana for monitoring ML systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Current focus:  
+I'm currently participating in the **Laskar AI training program**, where I'm developing a student dropout prediction system using educational data — covering everything from data preprocessing to deployment and monitoring.  
+The project is targeted to be completed by **July 2025**.
+
+
+🧠 Always learning:
+I enjoy exploring topics like:
+- MLOps & CI/CD for ML
+- Experiment tracking and reproducibility
+- Real-time ML monitoring
+
+📫 Feel free to connect or reach out!
+- 📧 Email: fmleonardo107@gmail.com
+- 🌐 LinkedIn: [Linkedin](https://www.linkedin.com/in/leonardo-fajar-mardika/)
+- 🛠️ Portfolio: [My Portofolio]((https://leonardofm73.github.io/))
+
+Thanks for stopping by! 🙌
