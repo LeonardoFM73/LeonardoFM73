@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-Welcome to my GitHub! I'm **Leonardo Fajar**, a passionate Data Scientist and Machine Learning Engineer who loves building intelligent systems that solve real-world problems.
+Welcome to my GitHub! I'm **Leonardo Fajar Mardika**, a passionate Data Scientist and Machine Learning Engineer who loves building intelligent systems that solve real-world problems.
 
 🚀 I work with:
 - Python, Jupyter, and Streamlit for rapid ML prototyping
